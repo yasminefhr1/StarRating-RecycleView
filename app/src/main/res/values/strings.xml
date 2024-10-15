@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3_Stars_RecycleView</string>
+    <string name="animals">List des animaux</string>
+    <string name="meals">List des repas</string>
+    <string name="films">List des films</string>
+    <string name="countries">List des pays</string>
+</resources>

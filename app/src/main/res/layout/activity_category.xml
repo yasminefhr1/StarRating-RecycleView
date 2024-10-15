@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:gravity="center"
+    android:background="@mipmap/bg"
+    >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/btn_films"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="70dp"
+            android:src="@drawable/films"
+            android:contentDescription="@string/films"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/btn_meals"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginRight="70dp"
+            android:src="@drawable/meals"
+            android:contentDescription="@string/meals"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/btn_animals"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="70dp"
+            android:src="@drawable/animals"
+            android:contentDescription="@string/animals"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/btn_countries"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:layout_marginRight="70dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/countries"
+            android:contentDescription="@string/countries"/>
+</LinearLayout>
