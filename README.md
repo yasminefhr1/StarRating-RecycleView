@@ -11,6 +11,11 @@
 - Utiliser la bibliothèque Glide
 
 
+
+https://github.com/user-attachments/assets/89a9bc74-f5e4-4075-8871-bc48dac71ec7
+
+
+
 **Glide** est une bibliothèque Android utilisée pour charger, afficher et gérer les images de manière efficace. Voici quelques fonctionnalités :
 
 - Chargement rapide d'images depuis les URL, fichiers locaux ou ressources.
